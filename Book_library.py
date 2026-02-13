@@ -90,7 +90,7 @@ while True:
      
   elif user_choice == "3":
      print (f"{'-' * 40} \n Search up available books in library \n{'-' * 40}")
-     book_store.search_book()yty
+     book_store.search_book()
      
   elif user_choice == "4":
      print (f"{'-' * 40} \n Delete books from library \n{'-' * 40}")
