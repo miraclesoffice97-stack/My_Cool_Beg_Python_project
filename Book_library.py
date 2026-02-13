@@ -12,8 +12,6 @@ class book_library_proj:
   
   def open_library (self): # open library function.
     
-    print (self.books)
-    
     if not self.books:
       print ("No current book in the library! ")
       option = input("no current books enter + to add a new book: ").lower()
