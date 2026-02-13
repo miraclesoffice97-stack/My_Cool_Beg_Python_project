@@ -61,10 +61,10 @@ class book_library_proj:
       try:
         select_from_options = int(input("select an option to delete: "))
         deleted_item = self.books.pop(select_from_options - 1)
-        return f"{deleted_item['book']} deleted successfully!"
+        print (f"{deleted_item['book']} deleted successfully!")
         
       except:
-        return "invalid selection! please choose from the above listed selections: "
+        print"invalid selection! please choose from the above listed selections: "
         
 book_store = book_library_proj()
 
