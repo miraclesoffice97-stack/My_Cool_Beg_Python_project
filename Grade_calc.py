@@ -42,24 +42,3 @@ while True:
   if user_input.lower() == "x":
       print ("program ended!")
       break
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-
-
-
-
-    
-  
-      
-    
-  
