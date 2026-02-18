@@ -2,5 +2,5 @@
 
 list of my beginner python project..
 
-#python #passwordStrengthChecker #to_do list #booklib ... 
+
 
